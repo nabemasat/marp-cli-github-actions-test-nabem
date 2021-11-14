@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: test
-jang: ja-jp
+lang: ja-jp
 ---
 
 # Slide 1 <!-- fit -->
