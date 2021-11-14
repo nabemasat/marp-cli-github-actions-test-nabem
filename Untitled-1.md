@@ -1,8 +1,3 @@
----
-marp: true
-theme: test
-lang: ja-JP
----
 
 # Slide 1 <!-- fit -->
 
