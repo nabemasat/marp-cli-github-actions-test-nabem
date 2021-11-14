@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          generate-html: false
 
       - name: Convert Markdown into HTML and PDF
         uses: KoharaKazuya/marp-cli-action@v1
