@@ -1,6 +1,7 @@
 ---
 marp: true
 theme: test
+jang: ja-jp
 ---
 
 # Slide 1 <!-- fit -->
@@ -21,4 +22,4 @@ GitHub Actions workflow automatically generates slide deck (HTML and PDF) and pu
 
 ---
 
-もうすぐ企画書自動生成できるようになるぞぞ
+もうすぐ企画書自動生成できるようにな…らない
