@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - main
-    path:
+    paths:
       - '**.md'
 
 jobs:
@@ -23,4 +23,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
           publish_branch: sponsor_guide
+        
           
