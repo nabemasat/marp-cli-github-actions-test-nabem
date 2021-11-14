@@ -1,8 +1,10 @@
-name: Publish GitHub Pages
+name: Publish PDF from Markdown
 on:
   push:
     branches:
       - main
+    path:
+      - '**.md'
 
 jobs:
   publish:
