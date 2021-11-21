@@ -1,7 +1,6 @@
 ---
 marp: true
 theme: test
-lang: ja-JP
 ---
 
 # Slide 1 <!-- fit -->
@@ -26,3 +25,9 @@ GitHub Actions workflow automatically generates slide deck (HTML and PDF) and pu
 どうかな？
 てす
 てす
+
+---
+marp: false
+---
+
+除外できるの？？
