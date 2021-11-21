@@ -25,3 +25,4 @@ GitHub Actions workflow automatically generates slide deck (HTML and PDF) and pu
 もうすぐ企画書自動生成できるようにな…らない…いや、なったお！
 どうかな？
 てす
+てす
